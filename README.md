@@ -1,2 +1,2 @@
-# lr-03
-lr-03
+# vtas-lab1
+lab 1
