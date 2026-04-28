@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+/* =======================================
+   Base style
+   ======================================= */
+p, h1, h2, h3, h4 {
+    padding: 0;
+    margin: 0;
+}
+ul, li {
+    margin: 0;
+    padding-left: 0;
+}
+.container {  
+    max-width: 1440px;
+    padding-left: 16px;  
+    padding-right: 16px;  
+    margin-left: 8px;  
+    margin-right: 8px;   
+} 
+/* =======================================
+   topline section
+   ======================================= */
+.header {
+}
+.header-nav {
+}
+.header-nav-link {
+}
+.header-nav-list {
+}
+.header-nav-item {
+}
+.header-nav-list-link {
+}
+.header-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.header-address-link {
+}
+/* =======================================
+   hero section
+   ======================================= */
+.hero-section {
+    background-color: #2E2F42;
+    height: 600px;
+    top: 72px;
+}
+.hero-section-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: Bold;
+    Size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
+    color: white;
+    all: center;
+    text-align: center;
+}
+.hero-section-btn {
+}
+/* =======================================
+   strategy section
+   ======================================= */
+.strategy-section {
+}
+.strategy-section-title2 {
+}
+.strategy-section-list {
+}
+.strategy-section-item {
+}
+.strategy-section-item-subtitle {
+}
+/* =======================================
+   work section
+   ======================================= */
+.work-section {
+}
+.work-section-subtitle {
+}
+.work-section-list {
+}
+.work-section-item {
+}
+.work-section-list-img {
+}
+/* =======================================
+   team section
+   ======================================= */
+.team-section {
+}
+.team-section-subtitle {
+}
+.team-section-list {
+}
+.team-section-item {
+}
+.team-section-item-img {
+}
+.team-section-item-name {
+}
+/* =======================================
+   footer section
+   ======================================= */
+.footer-section {
+}
+.footer-section-link {
+}
+.footer-section-text {
+}
